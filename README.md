@@ -64,8 +64,9 @@ cd client
 npm install
 npm run dev
 
-The frontend will run on http://localhost:5173
-The backend will run on http://localhost:5000
+🚀 Live Demo  
+Frontend: https://task-nest-cuty-lazbyegdn-chiku014s-projects.vercel.app  
+Backend: https://tasknest-un2a.onrender.com
 
 🌍 Deployment
 Frontend: Vercel
