@@ -52,18 +52,6 @@ TaskNest/
 │
 └── README.md
 
-
----
-
-## ⚙️ Environment Variables
-
-Create a `.env` file inside the **server** directory and add the following:
-
-
-⚠️ **Note:** Do not push the `.env` file to GitHub.
-
----
-
 ## ▶️ Run the Project Locally
 
 Backend
